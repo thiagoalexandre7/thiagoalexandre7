@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My name is Thiago Alexandre Oliveira. and I'm a 26 yeas old, from São josé dos campos, São Paulo</p>
+<p align="left">My name is Thiago Alexandre Oliveira. and I'm a 26 yeas old, from São josé dos campos, São Paulo.
+<br>Quality Assurance professional with experience in technical leadership, test automation, and quality assurance for Web, Mobile, and ERP applications. Skilled in developing frameworks and automated tests using Playwright, JavaScript, Robot Framework, Appium, and Python, integrated into CI/CD pipelines with Jenkins and Argo. Experienced in planning and executing functional, regression, unit, and integrated tests, as well as bug management, testing best practices definition, and technical support for QA teams. Analytical and collaborative profile, focused on continuous improvement, delivery quality, efficiency, and reliability.
+</p>
 
 ###
 
@@ -11,9 +13,9 @@
 ###
 
 <p align="left">✨ Software Quality Engineer for 5 years
-<br>📚 Quality Assurance professional with experience in technical leadership, test automation, and quality assurance for Web, Mobile, and ERP applications. Skilled in developing frameworks and automated tests using Playwright, JavaScript, Robot Framework, Appium, and Python, integrated into CI/CD pipelines with Jenkins and Argo. Experienced in planning and executing functional, regression, unit, and integrated tests, as well as bug management, testing best practices definition, and technical support for QA teams. Analytical and collaborative profile, focused on continuous improvement, delivery quality, efficiency, and reliability.
-<br>🎯 Goals: My goal is to be fluent in English and becomes head of Software Quality
-<br>🎲 Fun fact: I started my career as a computer technician, I built my own computer, I'm passionate about cinema</p>
+<br>🎯 Professional Career: Throughout my professional career, I have had the opportunity to work as a Quality Tech Lead, leading a team of 10 professionals across 8 different squads. My key achievements include designing and implementing a scalable test automation architecture, establishing QA best practices, and improving quality and CI/CD processes. I also played an important role in resolving cross-functional conflicts, fostering stronger collaboration between teams, improving processes, and increasing delivery efficiency, directly contributing to product stability and quality.
+<br>📚 Currently studying to improve my skills and become a complete technical leader capable of generating solutions not only for automated testing but also for security and performance testing.
+<br>🎲 Fun fact: I love to travel, I've already been to Japan and dream of visiting many countries around the world</p>
 
 ###
 
