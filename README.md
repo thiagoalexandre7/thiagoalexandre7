@@ -29,9 +29,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="playwright logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/robotframework/robotframework-plain.svg" height="40" alt="robot framework logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/robotframework.svg" height="40" alt="robot framework logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/cypress/cypress-plain.svg" height="40" alt="cypress logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cypress.svg" height="40" alt="cypress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
