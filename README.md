@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Thiago Alexandre Oliveira. and I'm a 25 yeas old, from São josé dos campos, São Paulo</p>
+<p align="left">My name is Thiago Alexandre Oliveira. and I'm a 26 yeas old, from São josé dos campos, São Paulo</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Software Quality Engineer for 4 years<br>📚 I'm currently studying to become a DevSecOps<br>🎯 Goals: My goal is to be fluent in English and becomes head of Software Quality<br>🎲 Fun fact: I started my career as a computer technician, I built my own computer, I'm passionate about cinema</p>
+<p align="left">✨ Software Quality Engineer for 5 years<br>📚 I'm currently studying to become a DevSecOps<br>🎯 Goals: My goal is to be fluent in English and becomes head of Software Quality<br>🎲 Fun fact: I started my career as a computer technician, I built my own computer, I'm passionate about cinema</p>
 
 ###
 
@@ -26,6 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="playwright logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/robotframework/robotframework-plain.svg" height="40" alt="robot framework logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" height="40" alt="cypress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
