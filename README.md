@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">THIAGO ALEXANDRE OLIVEIRA</h1>
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Software Quality Engineer for 5 years<br>📚 I'm currently studying to become a DevSecOps<br>🎯 Goals: My goal is to be fluent in English and becomes head of Software Quality<br>🎲 Fun fact: I started my career as a computer technician, I built my own computer, I'm passionate about cinema</p>
+<p align="left">✨ Software Quality Engineer for 5 years
+<br>📚 Quality Assurance professional with experience in technical leadership, test automation, and quality assurance for Web, Mobile, and ERP applications. Skilled in developing frameworks and automated tests using Playwright, JavaScript, Robot Framework, Appium, and Python, integrated into CI/CD pipelines with Jenkins and Argo. Experienced in planning and executing functional, regression, unit, and integrated tests, as well as bug management, testing best practices definition, and technical support for QA teams. Analytical and collaborative profile, focused on continuous improvement, delivery quality, efficiency, and reliability.
+<br>🎯 Goals: My goal is to be fluent in English and becomes head of Software Quality
+<br>🎲 Fun fact: I started my career as a computer technician, I built my own computer, I'm passionate about cinema</p>
 
 ###
 
